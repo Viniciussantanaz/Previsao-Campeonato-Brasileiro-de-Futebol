@@ -39,7 +39,7 @@ Os dados das finalizações foram importados com a biblioteca selenium e as tabe
 ### Meu Resutado
 ![Imagem do WhatsApp de 2024-10-20 à(s) 22 33 07_4f4e6d4c](https://github.com/user-attachments/assets/1d2092de-b14f-4b3f-94d8-d757ead22398)
 
-#### Obs. Os dados dados foram coletados antes do fim da 30° rodada, dia 19/10/2024 e os testes realizados no mesmo dia, para obter novos resultados basta executar o arquivo main.py para coletar as finalizações dos times e o arquivo previsao_brasileiro.ipynb para obter um novo resultado.
+#### Obs. Os dados dados foram coletados antes do fim da 30° rodada, dia 19/10/2024 e os testes realizados no mesmo dia, para obter novos resultados basta executar o arquivo main.py para coletar as finalizações dos times e o arquivo previsao_campeonato.ipynb para obter um novo resultado.
 
 ### Ferramentas utilizadas
 
