@@ -18,11 +18,11 @@ A probabilidade do Time A fazer 1 gol Mult A probabilidade Time B fazer 1 gol + 
 para probabilidade de vitória de ambos times, como explicado a cima, foi usado A(1) + A(2) + A(3) ...
 
 
-•N = Num.Finalizações que time  A tem por partida 
+• N = Num.Finalizações que time  A tem por partida 
 
-•P = A probabilidade do time A fazer o gol
+• P = A probabilidade do time A fazer o gol
 
-•K = Num de sucesso que o time A pode ter (1 a 6)
+• K = Num de sucesso que o time A pode ter (1 a 6)
 
  • P = (Média.FinaLizações certas timea A / Média.Finalizações tiem A) * (Média.Gols cedidos time B / Média.Finalizações cedidas time B)
 
