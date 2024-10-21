@@ -49,11 +49,12 @@ while i < len(urls): # Laço para acessar todos os jogos atraves do link
             df['chutes_gol_fora'].append(stats[8])
             df['time_casa'].append(driver.find_element(By.CLASS_NAME, 'MatchScoreTeam_home__9Ehdk').text)
             df['time_fora'].append(driver.find_element(By.CLASS_NAME, 'MatchScoreTeam_away__O_HfB').text)
+            i+= 1
+
         except: 
             continue
         finally: 
             driver.quit()
-            i+= 1
     except:
         driver.quit()
         # Reiniciar o Driver caso dê erro de rede.
